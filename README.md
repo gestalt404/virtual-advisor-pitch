@@ -1,3 +1,5 @@
-# elevatorpitchgenerator
+# Virtual Advisor Pitch
 
-Welcome, open this generator up in a text.edit device and follow the directions to utilize the available means of persuasion to make an elevator pitch. 
+Welcome, you have found our pitch for a Virtual Advisor. 
+
+Our Virtual Advisor Website can be found here: https://gestalt404.github.io/virtual-advisor-pitch/
