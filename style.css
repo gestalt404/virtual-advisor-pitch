@@ -91,7 +91,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
 /* Create 3 equal columns that sit next to each other */
 .column {
   flex: 25%;
-  max-width: 25%;
+  /*max-width: 25%;*/
   padding: 0 4px;
 }
 
